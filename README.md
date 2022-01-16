@@ -10,3 +10,5 @@ Step #1: fill the ```config.json``` file
 Step #2: do ```npm install```
 
 Step #3: Start the bot with ```node .```
+
+https://cdn.discordapp.com/attachments/815345815433773066/928696477419712552/unknown.png
