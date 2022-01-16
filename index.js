@@ -25,3 +25,7 @@ client.on('guildMemberAdd',member=>{
     channel.send(embed);
 })
 client.login(token);
+
+//
+//PLEASE MENTION ME WHEN USING THIS CODE OR U WILL BE IN BIG TROUBLE
+//
