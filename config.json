@@ -4,6 +4,6 @@
         "goodbyeChannel" : "<CHANNEL ID>"
     },"messages" : {
         "welcomeMessage" : "Welcome to <INSERT NAME> We hope that you'll have a great stay here." ,
-        "goodbyeMessage" : "Has left <INSERT NAME>"
+        "goodbyeMessage" : "DONT EDIT FEATURE NOT SUPPORTED [YET]"
     }
 }
