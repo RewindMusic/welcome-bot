@@ -1,9 +1,9 @@
 {
     "channels" : {
-        "welcomeChannel" : "862051934647091200" ,
-        "goodbyeChannel" : "862051934647091200"
+        "welcomeChannel" : "<CHANNEL ID>" ,
+        "goodbyeChannel" : "<CHANNEL ID>"
     },"messages" : {
-        "welcomeMessage" : "Welcome to TESCO UK PLC! We hope that you'll have a great stay here." ,
-        "goodbyeMessage" : "Has left TESCO UK PLC!"
+        "welcomeMessage" : "Welcome to <INSERT NAME> We hope that you'll have a great stay here." ,
+        "goodbyeMessage" : "Has left <INSERT NAME>"
     }
 }
