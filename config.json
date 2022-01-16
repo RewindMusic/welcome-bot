@@ -1,0 +1,9 @@
+{
+    "channels" : {
+        "welcomeChannel" : "862051934647091200" ,
+        "goodbyeChannel" : "862051934647091200"
+    },"messages" : {
+        "welcomeMessage" : "Welcome to TESCO UK PLC! We hope that you'll have a great stay here." ,
+        "goodbyeMessage" : "Has left TESCO UK PLC!"
+    }
+}

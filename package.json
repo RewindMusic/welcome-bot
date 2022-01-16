@@ -1,0 +1,28 @@
+{
+  "name": "tesco-welcome-bot",
+  "version": "1.0.0",
+  "description": "Discord Welcome/Goodbye Bot for your server. Just paste the bot token in the .env file and your welcome / goodbye message in the config.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachit-Pandey/discord-welcome-bot.git"
+  },
+  "keywords": [
+    "discord-js",
+    "welcome-bot"
+  ],
+  "author": "Winston#7050",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RewindMusic"
+  },
+  "homepage": "https://github.com/RewindMusic",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {}
+}
